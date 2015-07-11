@@ -10,5 +10,7 @@ package librarymanagementsystem.model;
  * @author Mahamudul Hasan
  */
 public class DBManager {
-    
+    public DBManager(){
+        
+    }
 }
